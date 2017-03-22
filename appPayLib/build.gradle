@@ -19,7 +19,7 @@ android {
 }
 
 dependencies {
-    compile project(':appLib2.0')
+    compile 'com.github.156036678:appLib:1.1.3'
     compile files('libs/alipaySdk-20151112.jar')
     compile files('libs/libammsdk.jar')
 }
