@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppJar2.0/AppJar2.0.iml" filepath="$PROJECT_DIR$/AppJar2.0/AppJar2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaseModel.iml" filepath="$PROJECT_DIR$/BaseModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appLib2.0/appLib2.0.iml" filepath="$PROJECT_DIR$/appLib2.0/appLib2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appPayLib/appPayLib.iml" filepath="$PROJECT_DIR$/appPayLib/appPayLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2.0/demo2.0.iml" filepath="$PROJECT_DIR$/demo2.0/demo2.0.iml" />
+    </modules>
+  </component>
+</project>
