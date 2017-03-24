@@ -1,4 +1,4 @@
-package com.xiay.apylib.wxpay;
+package com.xiay.paylib.wxpay;
 
 
 import android.content.Intent;

@@ -1,4 +1,4 @@
-package com.xiay.apylib.wxpay;
+package com.xiay.paylib.wxpay;
 
 import com.nohttp.extra.AbHttpActivity;
 import com.tencent.mm.sdk.constants.Build;

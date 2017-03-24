@@ -1,4 +1,4 @@
-package com.xiay.apylib.wxpay;
+package com.xiay.paylib.wxpay;
 
 /**微信支付的方式
  */
